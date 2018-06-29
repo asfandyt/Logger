@@ -2,7 +2,7 @@
 
 namespace JSONify
 {
-    public class Class1
+    public class Functions
     {
     }
 }
